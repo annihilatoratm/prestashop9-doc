@@ -31,12 +31,12 @@
 6.1. Open Prestashop Administration Panel.    
 6.2. Go to the _Modules_ > _Module Manager_ section. (1).    
 6.3. Open the module settings page.  
-    6.3.1. Search for "Payneteasy Payment" using the search field (2).  
+    6.3.1. Search for "Payneteasy" using the search field (2).  
     6.3.2. Open module setting page by pressing **Configure** button (3).  
        
   <img src="/images/prestashop-1-1.png" width=60% height=60%>
   
-6.4. Fill in the required configuration settings (arrow #1).  
+6.4. Fill in the required configuration settings.  
 <img src="/images/prestashop-1-2.png" width=60% height=60%>
 
 ## 7. Plugin Uninstallation.
@@ -46,7 +46,7 @@
 7.3. Remove Module.  
     7.3.1. Search for "payneteasy" using the search field.  
     7.3.2. Open the list of actions for the module.  
-    7.3.3. Choose **Delete**.  
+    7.3.3. Choose **Uninstall**.  
        
 <img src="/images/prestashop-1-3.png" width=60% height=60%>
 
