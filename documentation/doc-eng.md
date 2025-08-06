@@ -20,7 +20,7 @@
 5.3. Open the Prestashop admin panel. 
 5.4. Navigate to _Modules_ > _Module Manager_ (1). 
 5.5. Install Module.  
-    5.5.1. Search for "payneteasy" using the search field (2).
+    5.5.1. Search for "Payneteasy" using the search field (2).
     5.5.2. Click **Install** to install the plugin.  
 5.6. Confirm installation, even though the module is not verified by Prestashop.  
 
